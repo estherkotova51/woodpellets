@@ -3,7 +3,7 @@
  include_once("extrabox/headsection.php");
  ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= $compName; ?>| buy wwoodpallets near me | Home page 2</title>
+    <title><?= $compName; ?>| woodpellets | Home page 2</title>
     <meta name="description" content="best quality wwoodpallets">
 </head>
 
